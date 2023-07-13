@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 body{
     height: 100vh;
     box-sizing: border-box;
@@ -9,12 +14,7 @@ body{
     color: #22d4fd;
 }
 
-*{
-    margin: 0;
-    padding: 0;
-}
-
-
 .apresentacao {
     display: flex;
+    align-items: center;
 }
