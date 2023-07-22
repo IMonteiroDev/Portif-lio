@@ -16,5 +16,3 @@
 
 ### Desenvolvido durante o curso da alura
 
-
-```![Alt text]()
